@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente estou procurando uma oportunidade na área de SharePoint (Consultor/Dev/Sustentação)
-- 🌱 Atualmente estou estudando Front-end (HTML5, CSS3, JavaScript, TypeScript), Frameworks (Bootstrap, Angular), Biblioteca React, C#.Net e Asp.Net, PowerShell pnP e Power Platform (Power Automate, PowerApps, Power BI e Power Virtual Agents)
+- 🌱 Atualmente estou estudando Front-end (HTML5, CSS3, JavaScript, TypeScript), Frameworks/Libs (React, jQuery e Bootstrap), C#.Net e Asp.Net, PowerShell pnP e Power Platform (Power Automate, PowerApps, Power BI e Power Virtual Agents)
 <br>
 <div align="center">
   <a href="https://github.com/MarcusHenriqueDev">
